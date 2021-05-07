@@ -6,11 +6,11 @@ public class Q5 {
     Scanner reader = new Scanner(System.in);
    System.out.print("Enter x1 : ");
    double x1 = reader.nextInt();
-   System.out.print("Enter y1: ");
+   System.out.print("Enter y1 : ");
    double y1 = reader.nextInt();
-   System.out.print("Enter x2 ");
+   System.out.print("Enter x2 : ");
    double x2 = reader.nextInt();
-   System.out.print("Enter y2: ");
+   System.out.print("Enter y2 : ");
    double y2 = reader.nextInt();
    System.out.println("Slope = " + ((y2 - y1)/(x2 - x1)));
 
